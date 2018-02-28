@@ -1,0 +1,4 @@
+nmist_LeNet5文件夹各文件说明：
+mnist_eval.py：预测模型
+mnist_inference.py：模型前向传播算法接口
+mnist_train.py：训练模型
